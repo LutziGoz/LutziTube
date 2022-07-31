@@ -1,9 +1,11 @@
 # LutziTube
-### leak, leak leaky Loot Like a freaky.
-Download Singe/Playlist from YouTube Script.
-start crawl grabbing any Playlist / Single and then  can start Download to Current Folder where the Script running.
+### wipe & leak leaky Like a freaky.
+Download ANY Singe/Playlist from YouTube Script.
+Start Crawl Grabbing ANY Playlist / Single and then Should be Start to Download to Current Folder Where The Script Running.
 
 ## Quality Features:
 * Download Only By Memory Iteration(for Singles & PlayList ).
-* parse any Link from YouTube include short Links.
-* include Search Engine option and Start Download.
+* Parse ANY Link from YouTube Include Short Links.
+* Include Search Engine Option and Start Download.
+* Fun Sounds Effects Expirience Design by LutziGoz.
+* Elegant Stylish Script Behavior.
