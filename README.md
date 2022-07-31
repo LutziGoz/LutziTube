@@ -1,6 +1,6 @@
 # LutziTube
-### leaky leaky as The freaky.
-## Download Singe/Playlist from YouTube Script.
+### leaky leaky Loot Like a freaky Tube.
+Download Singe/Playlist from YouTube Script.
 start crawl grabbing any Playlist / Single and then  can start Download to Current Folder where the Script running.
 
 ## Quality Features:
