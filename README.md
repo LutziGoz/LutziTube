@@ -1,5 +1,5 @@
 # LutziTube
-### wipe & leak leaky Like a freaky.
+### Wipe & Leak Leaky Like a Freaky.
 Download ANY Singe/Playlist from YouTube Script.
 Start Crawl Grabbing ANY Playlist / Single and then Should be Start to Download to Current Folder Where The Script Running.
 
