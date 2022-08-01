@@ -26,7 +26,7 @@ The LutiTube Script will Start by crawl grabbing ANY Playlist / Single and then 
 
 ![ice_screenshot_20220801-142944](https://user-images.githubusercontent.com/45577616/182138746-cbedfe69-df0b-4515-b32f-817ef98001c9.png)
 
-### 4. alternative for previous option' open YuoTube Page via default Browser.
+### 4. alternative for previous option, open YuoTube Page via default Browser.
 
 ### 5. open The LutziTube Repository (Currenty Page).
 
