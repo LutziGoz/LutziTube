@@ -13,7 +13,7 @@ The LutiTube Script will Start by crawl grabbing ANY Playlist / Single and then 
 
 
 ## HOW TO USE>
-### Choose what do you want to do, from the list:
+### Choose What do You Want to do, from The List Below:
 ![ice_screenshot_20220801-141014](https://user-images.githubusercontent.com/45577616/182135702-2eb30172-f7fa-4ae1-aafe-6695c64751a3.png)
 
 1. Download Specific URL.
