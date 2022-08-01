@@ -4,8 +4,8 @@
 the script will start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
 
 ## Quality Features:
-* ownloading Only via Memory, The Script will make create private section and start the Iterations (for Singles & PlayList).
-* D![LutziTube](https://user-images.githubusercontent.com/45577616/182126852-db903747-6012-423f-85b0-0d6fec00d551.gif)
+* Downloading Only via Memory, The Script Will Make Create Private Section and Start The Iterations (for Singles & PlayList).
+* ![LutziTube](https://user-images.githubusercontent.com/45577616/182126852-db903747-6012-423f-85b0-0d6fec00d551.gif)
 * The Script Perform Parsing for ANY Link of YouTube Include Shorts Links.
 * The Script Retrieves errors and redirects or corrects any Errors.
 * Search Engine Option embedded.
