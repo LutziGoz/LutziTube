@@ -1,4 +1,3 @@
-# |~@~@~LutziTube~@~@~|
 ![ice_screenshot_20220801-152901](https://user-images.githubusercontent.com/45577616/182147882-b6242e70-ff86-4703-a071-15f5b498f8ef.png)
 
 ## Description:
