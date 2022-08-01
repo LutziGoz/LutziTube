@@ -2,7 +2,7 @@
 
 ## Description:
 exe script to Download ANY URL from YouTube
-### Download ANY Single or Playlist from YouTube by LutziTube.
+### Download ANY Single or Playlist from YouTube by LutziTube:
 This Script will Start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
 ### Note:
 PLEASE During installation, select the destination for the script directly in the downloads folder or to a place convenient for you to download, otherwise all downloads will go directly to ProgramFiles
@@ -15,7 +15,7 @@ PLEASE During installation, select the destination for the script directly in th
 * ![LutziTube](https://user-images.githubusercontent.com/45577616/182126852-db903747-6012-423f-85b0-0d6fec00d551.gif)
 
 
-## HOW TO USE>
+## HOW TO USE:
 ### Choose What do You Want to do, from The List Below:
 ![ice_screenshot_20220801-141014](https://user-images.githubusercontent.com/45577616/182135702-2eb30172-f7fa-4ae1-aafe-6695c64751a3.png)
 
