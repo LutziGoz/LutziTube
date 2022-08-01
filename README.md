@@ -17,7 +17,7 @@ The LutiTube Script will Start by crawl grabbing ANY Playlist / Single and then 
 ![ice_screenshot_20220801-141014](https://user-images.githubusercontent.com/45577616/182135702-2eb30172-f7fa-4ae1-aafe-6695c64751a3.png)
 
 1. Download Specific URL.
-2. Downlolad Specific URL of List.
+2. Downlolad Specific URL of List(Downloads a complete list).
 3. Search on YouTube Directly via The Script.
 4. alternative for previous option' open YuoTube Page via default Browser.
 5. open LutziTube Repository.
