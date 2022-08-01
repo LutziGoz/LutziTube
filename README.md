@@ -1,7 +1,7 @@
 # LutziTube
 ## Description:
 ### Download ANY Single or Playlist from YouTube by LutziTube.
-the script will start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
+The LutiTube Script will Start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
 
 ## Quality Features:
 * Downloading Only via Memory, The Script Will Make Create Private Section and Start The Iterations (for Singles & PlayList).
