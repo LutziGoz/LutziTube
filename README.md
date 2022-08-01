@@ -31,6 +31,6 @@ The LutiTube Script will Start by crawl grabbing ANY Playlist / Single and then 
 
 ### 5. open The LutziTube Repository (Currenty Page).
 
-### 6. download Lutz Tube-Radio GUI - a lot of Janners Playinning 24/7 of Music via YouTube.
+### 6. download LutziTube-Radio GUI - a lot of Janners Playinning 24/7 of Music via YouTube.
 
 
