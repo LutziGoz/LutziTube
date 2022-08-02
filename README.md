@@ -5,7 +5,7 @@ EXE Script to Download ANY URL from YouTube
 ### Download ANY Single or Playlist from YouTube by LutziTube:
 This Script will Start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
 ## Quality Features:
-* when you choose for Download some Playlist, it will Create Folder as a same Name of the Download URL Target(very convenient to Download Big Playlists).
+* when you choose for Download some Playlist, it will Create Folder as a same Name of the Download URL Target (very convenient to Download Big Playlists).
 * Full Autommate - The script asks you numeric queries between 0-6 and to paste a link or perform a search and it will be Done.
 * The Script Perform Parsing for ANY Link of YouTube Include Shorts Links.
 * The Script Retrieves errors and redirects or corrects any Errors.
