@@ -15,7 +15,7 @@ This Script will Start by crawl grabbing ANY Playlist / Single and then will Sta
 * Downloading Only via Memory, The Script Will Make Create Private Section and Start The Iterations (for Singles & PlayList).
 * ![LutziTube](https://user-images.githubusercontent.com/45577616/182126852-db903747-6012-423f-85b0-0d6fec00d551.gif)
 ### Note:
-PLEASE During Installation, Select the destination for The Script firectly in The Downloads Folder or to a place convenient for you to download, otherwise all downloads will go directly Desktop/LutziTube/ Folder (you can copy The LutziTube Folder as many times as you want) or just downoad the , merged with an executable module (SelF-eXtracting).
+PLEASE During Installation, Select the destination for The Script firectly in The Downloads Folder or to a place convenient for you to download, otherwise all downloads will go directly ProgramFiles(x86)/LutziTube/ Folder (you can copy The LutziTube Folder as many times as you want) or just downoad the , merged with an executable module (SelF-eXtracting).
 
 ### HOW TO USE:
 #### Choose What do You Want to do, from The List Below:
