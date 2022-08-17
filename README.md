@@ -31,10 +31,10 @@ PLEASE During Installation, Select the destination for The Script firectly in Th
 
 ![ice_screenshot_20220801-142944](https://user-images.githubusercontent.com/45577616/182138746-cbedfe69-df0b-4515-b32f-817ef98001c9.png)
 
-### 4. alternative for previous option, open YuoTube Page via default Browser.
+#### 4. alternative for previous option, open YuoTube Page via default Browser.
 
-### 5. open The LutziTube Repository (Currenty Page).
+#### 5. open The LutziTube Repository (Currenty Page).
 
-### 6. download LutziTube-Radio GUI - a lot of Janners Playinning 24/7 of Music via YouTube.
+#### 6. download LutziTube-Radio GUI - a lot of Janners Playinning 24/7 of Music via YouTube.
 
 
