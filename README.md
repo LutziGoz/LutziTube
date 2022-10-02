@@ -20,7 +20,7 @@ This Script will Start by crawl grabbing ANY Playlist / Single and then will Sta
 ![ice_screenshot_20220825-100551](https://user-images.githubusercontent.com/45577616/186598000-0aa2516a-52ee-4ff6-bfa7-da333610a7bb.png)
 
 ### Note:
-PLEASE During Installation, Select the destination for The Script firectly in The Downloads Folder or to a place convenient for you to download, otherwise all downloads will go directly ProgramFiles(x86)/LutziTube/ Folder (you can copy The LutziTube Folder as many times as you want) or just downoad the , merged with an executable module (SelF-eXtracting).
+PLEASE During Installation, Select the destination for The Script firectly in The Downloads Folder or to a place convenient for you to download, otherwise all downloads will go directly ProgramFiles(x86)/LutziTube/ Folder (can you copy The LutziTube Folder as many times as you want) or just downoad the , merged with an executable module (SelF-eXtracting).
 
 ### HOW TO USE:
  Choose What do You Want to do, from The List Below:
