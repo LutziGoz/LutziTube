@@ -6,13 +6,13 @@ EXE Script to Download ANY URL from YouTube
 This Script will Start by crawl grabbing ANY Playlist / Single and then will Start to Download to Current Folder Where The Script Running.
 ## Quality Features:
 * LutziTube Script performs an analysis to download the video in the best resolution available.
-* when you choose for Download some Playlist, it will Create Folder as a same Name of the Download URL Target (very convenient to Download Big Playlists).
-* Full Autommate - The script asks you numeric queries between 0-6 and to paste a link or perform a search and it will be Done.
-* The Script Perform Parsing for ANY Link of YouTube Include Shorts Links.
+* when you choose to Download some Playlist, it will Create Folder as a same Name of the Download URL Target (very convenient to Download Big Playlists).
+* Full Autommate - The script will asks you numeric queries between 0-6 and then you should to paste the link or perform a search and then it will be Done.
+* The Script will Perform Parsing for ANY Link of YouTube Include Shorts Links.
 * The Script Retrieves errors and redirects or corrects any Errors.
 * Search Engine Option embedded.
-* Sounds Effects Design by LutziGoz.
-* Downloading Only via Memory, The Script Will Make Create Private Section and Start The Iterations by IAT hooking  (for Singles & PlayList).
+* Sounds Design Effects.
+* Downloading Only direct from the Memory, The Script Will Make Create Private Section and Start The Iterations by IAT hooking  (for Singles & PlayList).
 * ![LutziTube](https://user-images.githubusercontent.com/45577616/182126852-db903747-6012-423f-85b0-0d6fec00d551.gif)
 ![ice_screenshot_20220825-100451](https://user-images.githubusercontent.com/45577616/186598053-07b34b2d-2c71-439c-bc1c-951afd53b74c.png)
 ![ice_screenshot_20220825-100451](https://user-images.githubusercontent.com/45577616/186598053-07b34b2d-2c71-439c-bc1c-951afd53b74c.png)
