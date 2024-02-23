@@ -1,5 +1,5 @@
 ![ice_screenshot_20220801-154702](https://user-images.githubusercontent.com/45577616/182151340-20cc7ce7-d29e-4d27-9a8f-1d481609f80f.png)
-# can putchase The LutziTube Pro on The Official Website [Pro version](https://lutzigoz.com/lutzitubepro)
+# The LutziTube Pro available on The [Official Website](https://lutzigoz.com/lutzitubepro)
 
 ## Description:
 EXE Script to Download ANY URL from YouTube
